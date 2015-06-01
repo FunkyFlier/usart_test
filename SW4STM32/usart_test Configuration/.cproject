@@ -34,6 +34,21 @@
 									<listOptionValue builtIn="false" value="..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include"/>
 									<listOptionValue builtIn="false" value=""/>
 									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
 								</option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.$(UID)" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
@@ -104,6 +119,21 @@
 									<listOptionValue builtIn="false" value="..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include"/>
 									<listOptionValue builtIn="false" value=""/>
 									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
+									<listOptionValue builtIn="false" value=""/>
 								</option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.$(UID)" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
@@ -141,7 +171,9 @@
 			</storageModule>
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
 		</cconfiguration>
-		<cconfiguration id="fr.ac6.managedbuild.config.gnu.cross.exe.debug.$(DEBUG_CONFIG_UID)"/>
+		<cconfiguration id="fr.ac6.managedbuild.config.gnu.cross.exe.debug.$(DEBUG_CONFIG_UID)">
+			<storageModule moduleId="org.eclipse.cdt.core.settings"/>
+		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="$(PROJECT_NAME).fr.ac6.managedbuild.target.gnu.cross.exe.$(UID)" name="Executable" projectType="fr.ac6.managedbuild.target.gnu.cross.exe"/>
@@ -156,4 +188,5 @@
 		</scannerConfigBuildInfo>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope"/>
 </cproject>
